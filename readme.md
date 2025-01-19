@@ -53,6 +53,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://github.com/selefra/selefra" target="_blank"><img src="https://github.com/selefra.png" style="border-radius: 50%" alt="selefra" title="Selefra" width="100"></a>
 
 <a href="https://opencollective.com/git-history/sponsor/0/website" target="_blank"><img src="https://opencollective.com/git-history/sponsor/0/avatar.svg"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fgit-history?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fgit-history.svg?type=shield"/></a>
 
 ### Backers
 
@@ -78,3 +79,6 @@ Based on these amazing projects:
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fgit-history.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fgit-history?ref=badge_large)
